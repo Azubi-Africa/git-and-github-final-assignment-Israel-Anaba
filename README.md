@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Pandas for everybody             |  -In this project i employ the use pandas for calculation             | https://github.com/Israel-Anaba/Pandas-for-everybody-      |
+| 2 |  -My simple Calculator             |  -A simple calculator project with python that employs the use loops              | https://github.com/Israel-Anaba/My-simple-Calculator       |
+| 3 |  -Caeser's Encryption Method            |  -A reuse of the old caeser's message encryption method with python             | https://github.com/Israel-Anaba/Caeser-s-Encryption-Method-with-Python-Functions       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
@@ -52,7 +52,7 @@ This evaluation will be automatically grade, so please follow the instructions c
 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
 ```command
-python -m pytest -v
+python3 -m pytest -v
 ```
 
 If everything is okay, you will have such an output
